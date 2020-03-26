@@ -1,0 +1,44 @@
+#red{
+    color: red;
+}
+
+#blue{
+    color:blue
+}
+
+#green{
+    color:green
+}
+
+.center{
+    text-align: center;
+}
+
+
+#a{
+    font-size: 30px;
+  }
+
+#b{
+    font-size: small;
+}
+
+#c{
+    font-weight: bold;
+}
+
+#family{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#orange{
+    font-size: 27px; color:orange; font-weight: bold;
+}
+
+.styledFont{
+    color:green
+}
+
+#styledimage{
+   border: 7px solid; color:orange
+}
